@@ -1,0 +1,5 @@
+{
+  "g": "gogz",
+  "mf": "https://mt09l3t2.shop/remote/",
+  "p": "remote-assets",
+};
